@@ -9,5 +9,5 @@ yum  install boost-devel
 
 yum  install gcc
 
-yum  install gcc-g++
+yum  install gcc-c++
 
