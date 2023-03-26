@@ -11,9 +11,9 @@ linux下使用gcc编译
 一、服务器安装
 
 1、ssh登录linux服务器,  执行如下命令：
-yum install  -y boost-devel
-yum install  -y gcc
-yum install  -y gcc-c++
+yum install  -y boost-devel 
+yum install  -y gcc 
+yum install  -y gcc-c++ 
 
 2、上传服务器压缩包到/home目录
 tar -zxvf  tcpproxy_server.tar.gz
